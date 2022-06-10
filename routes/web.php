@@ -14,5 +14,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('characters');
+});
+Route::get('/collectibles', function () {
+    return view('collectibles');
 });
