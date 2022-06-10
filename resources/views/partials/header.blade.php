@@ -1,20 +1,20 @@
 <div class="banner">
-    
+
 </div>
 
 <nav>
     <ul class="noDeco">
-        <li> <img src="../img/dc-logo.png" alt=""></li>
-        <li> <a href="/Characters">Characters</a> </li>
-        <li> <a href="/Comics">Comics</a></li>
-        <li> <a href="/Movies">Movies</a></li>
-        <li> <a href="/Tv">Tv</a></li>
-        <li> <a href="/Games">Games</a></li>
-        <li> <a href="/Collectibles">Collectibles</a></li>
-        <li> <a href="/Videos">Videos</a></li>
-        <li> <a href="/Fans">Fans</a></li>
-        <li> <a href="/News">News</a></li>
-        <li> <a href="/Shop">Shop</a></li>
+        <li> <a href="/"><img src="../img/dc-logo.png" alt=""></a> </li>
+        <li> <a href="/characters">Characters</a> </li>
+        <li> <a href="/comics">Comics</a></li>
+        <li> <a href="/movies">Movies</a></li>
+        <li> <a href="/tv">Tv</a></li>
+        <li> <a href="/games">Games</a></li>
+        <li> <a href="/collectibles">Collectibles</a></li>
+        <li> <a href="/videos">Videos</a></li>
+        <li> <a href="/fans">Fans</a></li>
+        <li> <a href="/news">News</a></li>
+        <li> <a href="/shop">Shop</a></li>
     
     </ul>
 </nav>
