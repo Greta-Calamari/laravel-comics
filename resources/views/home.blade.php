@@ -17,10 +17,10 @@ DC COMICS - Home
   <h3>CURRENT SERIES</h3>
   </div>
   <div class="container-c">
-    @foreach ($collection as $item)
+    @foreach ($comics as $item)
       <div  class="cards">
-        <img src="" alt="">
-        <p></p>
+        <img src="{{$item['thumb']}}" alt="">
+        <p>{{$item['title']}}</p>
             
       </div>
       @endforeach
