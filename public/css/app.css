@@ -31,6 +31,38 @@ img {
   bottom: 40px;
 }
 
+.containers {
+  background-color: #0282f9;
+  color: white;
+}
+
+.card-container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 40px;
+  color: white;
+}
+
+.nav-useful {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.img-w {
+  width: 50px;
+  height: 65px;
+  vertical-align: middle;
+  margin-top: 40px;
+}
+
+.li-nav {
+  display: inline-block;
+  padding: 10px;
+}
+
 .footer {
   width: 100%;
   background-image: url(../img/footer-bg.jpg);
@@ -107,6 +139,48 @@ img {
   background-size: cover;
 }
 
-.container {
+.items-container {
   background-color: #1c1c1c;
+  height: 750px;
+}
+
+.button-second {
+  width: 200px;
+  padding: 20px;
+  background-color: #0282f9;
+  color: white;
+  margin-left: 500px;
+  position: relative;
+  bottom: 35px;
+}
+
+.button-secondo {
+  width: 200px;
+  padding: 20px;
+  background-color: #0282f9;
+  color: white;
+  text-align: center;
+  margin: 10px auto;
+}
+
+.container-c {
+  height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.cards {
+  width: 10%;
+  flex-basis: 15%;
+  height: 100px;
+  color: white;
+}
+.cards img {
+  height: 230px;
+  width: 80%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: top;
+     object-position: top;
 }

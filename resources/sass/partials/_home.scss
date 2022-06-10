@@ -3,6 +3,56 @@
     background-image: url('../img/jumbotron.jpg');
     background-size: cover;
 }
-.container{
+.items-container{
     background-color: #1c1c1c;
+    height: 750px;
 }
+   
+
+
+
+.button-second {
+    width: 200px;
+    padding: 20px;
+    background-color:#0282f9 ;
+    color: white;
+    margin-left: 500px;
+    position: relative;
+    bottom: 35px;
+}
+
+.button-secondo {
+    width: 200px;
+    padding: 20px;
+    background-color: #0282f9;
+    color: white;
+    text-align: center;
+    margin: 10px auto;
+}
+
+.container-c {
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.cards {
+    width: 10%;
+    flex-basis: 15%;
+    height: 100px;
+    color: white;
+
+
+    img {
+        height: 230px;
+        width: 80%;
+        object-fit: cover;
+        object-position: top;
+
+
+    }
+
+}
+
+

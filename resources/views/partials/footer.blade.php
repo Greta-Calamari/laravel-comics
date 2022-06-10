@@ -1,3 +1,18 @@
+
+<div class="containers">
+        <ul class="nav-useful" >
+            
+            <li class="li-nav"><img src="../img/buy-comics-digital-comics.png" alt="" class="img-w">DIGITAL COMICS</li>
+            <li class="li-nav"><img src="../img/buy-comics-merchandise.png" alt="" class="img-w">DC MERCHANDISE</li>
+            <li class="li-nav"><img src="../img/buy-comics-shop-locator.png" alt="" class="img-w">SUBSCRIPTION</li>
+            <li class="li-nav"><img src="../img/buy-comics-subscriptions.png" alt="" class="img-w">COMIC SHOP LOCATOR</li>
+            <li class="li-nav"><img src="../img/buy-comics-digital-comics.png" alt="" class="img-w">DC POWER</li>
+                
+        </ul>
+
+</div>
+
+
 <div class="footer">
 
         <div class="footer-container">
