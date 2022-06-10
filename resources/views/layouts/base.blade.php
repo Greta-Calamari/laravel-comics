@@ -15,6 +15,7 @@
     @include('partials.jumbo')
     <main>
         @yield('mainContent')
+        
     </main>
     @include('partials.footer')
     

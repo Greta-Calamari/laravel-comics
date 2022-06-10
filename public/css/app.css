@@ -186,7 +186,7 @@ img {
   background-size: cover;
 }
 
-.button-second {
+.button-second2 {
   background-image: url("../img/download.jpg");
   height: 270px;
   width: 180px;
@@ -217,12 +217,44 @@ img {
   gap: 40px;
 }
 
+h2 {
+  color: #2596be;
+}
+
 .col-1 {
   flex: 0 50%;
 }
 
-.adv {
-  color: gray;
-  margin-bottom: 50px;
-  margin-left: 180px;
+.av {
+  display: flex;
+  height: 40px;
+  width: 500px;
+}
+
+.avaible {
+  width: 70%;
+  background-color: #50b490;
+  padding: 10px;
+  color: #abfa90;
+}
+.avaible .span {
+  color: white;
+}
+
+.avaible1 {
+  background-color: #50b490;
+  width: 30%;
+  border-left: 1px solid black;
+  padding: 10px;
+  color: white;
+}
+
+.vert {
+  margin-left: 110px;
+  color: #abfa90;
+}
+
+.lorem {
+  margin-top: 20px;
+  line-height: 30px;
 }
