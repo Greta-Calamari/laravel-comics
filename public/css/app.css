@@ -185,3 +185,19 @@ img {
   background-image: url("../img/jumbotron.jpg");
   background-size: cover;
 }
+
+.button-second {
+  background-image: url("../img/download.jpg");
+  height: 270px;
+  width: 180px;
+  margin-left: 500px;
+  position: relative;
+  bottom: 300px;
+}
+
+.banner {
+  background-color: #0282f9;
+  height: 50px;
+  position: relative;
+  bottom: 300px;
+}

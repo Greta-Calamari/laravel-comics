@@ -9,8 +9,9 @@ DC COMICS - Comics
 @section('mainContent')
 
 <div class="button-second">
-    
 </div>
+<div class="banner"></div>
+    
 
 
 
