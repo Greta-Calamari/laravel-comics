@@ -1,6 +1,6 @@
 <nav>
-    <ul>
-        <li> <img href="/" src="" alt=""></li>
+    <ul class="noDeco">
+        <li> <img src="" alt=""></li>
         <li> <a href="/Characters">Characters</a> </li>
         <li> <a href="/Comics">Comics</a></li>
         <li> <a href="/Movies">Movies</a></li>
