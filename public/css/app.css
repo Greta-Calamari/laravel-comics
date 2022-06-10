@@ -100,3 +100,13 @@ img {
 .ul-footer {
   margin-top: 20px;
 }
+
+.jumbotron {
+  height: 600px;
+  background-image: url("../img/jumbotron.jpg");
+  background-size: cover;
+}
+
+.container {
+  background-color: #1c1c1c;
+}

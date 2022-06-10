@@ -8,6 +8,14 @@ DC COMICS - Home
 
 @section('mainContent')
 
+<div class="jumbotron">
+</div>
+
+<div class="container">
+    <h1>sono io</h1>
+</div>
+    
+
 
 
 
