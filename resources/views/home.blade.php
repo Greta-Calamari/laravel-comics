@@ -8,8 +8,7 @@ DC COMICS - Home
 
 @section('mainContent')
 
-<div class="jumbotron">
-</div>
+
 
 <div class="items-container">
   <div class="button-second">

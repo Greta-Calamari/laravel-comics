@@ -133,12 +133,6 @@ img {
   margin-top: 20px;
 }
 
-.jumbotron {
-  height: 600px;
-  background-image: url("../img/jumbotron.jpg");
-  background-size: cover;
-}
-
 .items-container {
   background-color: #1c1c1c;
   height: 750px;
@@ -184,4 +178,10 @@ img {
      object-fit: cover;
   -o-object-position: top;
      object-position: top;
+}
+
+.jumbotron {
+  height: 600px;
+  background-image: url("../img/jumbotron.jpg");
+  background-size: cover;
 }
