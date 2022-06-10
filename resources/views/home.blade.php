@@ -1,7 +1,7 @@
 @extends('layouts.base')
 
 @section('pageTitle')
-DC COMICS - Characters
+DC COMICS - Home
 
     
 @endsection
