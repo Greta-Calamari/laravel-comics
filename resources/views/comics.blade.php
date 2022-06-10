@@ -36,6 +36,28 @@ DC COMICS - Comics
     </div>
     
 </div>
+<div class="container-2">
+    <div class="row">
+        <div class="col">
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+
+
+        </div>
+        <div class="col">
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+
+        </div>
+    </div>
+
+</div>
     
 
 
