@@ -192,7 +192,8 @@ img {
   width: 180px;
   margin-left: 500px;
   position: relative;
-  bottom: 300px;
+  bottom: 270px;
+  z-index: 1000;
 }
 
 .banner {
@@ -200,4 +201,28 @@ img {
   height: 50px;
   position: relative;
   bottom: 300px;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+  bottom: 200px;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+.col-1 {
+  flex: 0 50%;
+}
+
+.adv {
+  color: gray;
+  margin-bottom: 50px;
+  margin-left: 180px;
 }
